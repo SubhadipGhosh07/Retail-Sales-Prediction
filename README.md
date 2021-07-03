@@ -5,6 +5,9 @@
 Rossmann operates over 3000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
 
 We will be working with 1115 Rossmann stores. We need to predict the 'Sales' column for the test dataset. As there are a total of 3000 stores, and we will be working with 1115 of them, some stores in the dataset were temporarily closed for refurbishment.
+  
+![Screenshot (306)](https://user-images.githubusercontent.com/83903018/124346442-78365400-dbfc-11eb-8311-2b8689315b38.png)
+
 
 ### **Columns we will be working with:**
   1. **Id** - an Id that represents a Store within the test set
